@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/7bc425b9-713b-42ba-ab6b-21cdfebb2fe5.svg)](https://wakatime.com/@hacker4ik)
+
 <h2 align="left">Hi 👋! My name is Salomov Suxrob and I'm a Fullstack developer, from Uzbekistan</h2>
 
 ###
